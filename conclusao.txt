@@ -1,0 +1,3 @@
+### Conclusao
+
+- O histórico do submodulo é gerenciado em separado do histórico do módulo, trazendo uma separação na visualização de mudanças entre os módulos que utilizam outros como dependências.
